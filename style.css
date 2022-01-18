@@ -1,12 +1,26 @@
-
+html{
+    background: rgb(40, 44, 44);
+}
 
 ul{
     color: aqua;
     text-align: left;
-
-    
 }
-img{
-    border-radius: 8px;
 
+
+img {
+    border-radius: 8px;
+}
+
+h1 {
+    color: white }
+h2{
+    color: azure;
+}
+
+p{
+    color: rgb(166, 250, 250);
+}
+ol{
+    color: aqua;
 }
